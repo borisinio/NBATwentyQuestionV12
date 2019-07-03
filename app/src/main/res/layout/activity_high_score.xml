@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/gradiback"
+    tools:context=".activities.HighScore">
+
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="295dp"
+        android:layout_height="82dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginStart="46dp"
+        android:layout_marginLeft="46dp"
+        android:layout_marginTop="0dp"
+        android:layout_marginEnd="43dp"
+        android:layout_marginRight="43dp"
+        android:fontFamily="serif"
+        android:gravity="center"
+        android:text="High Score"
+        android:textColor="@color/colorLight"
+        android:textColorLink="@color/colorLight"
+        android:textSize="35dp"
+        android:textStyle="bold"
+        app:fontFamily="sans-serif" />
+
+
+    <ListView
+        android:id="@+id/list"
+        android:layout_width="match_parent"
+        android:layout_height="380dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="85dp"
+        android:cacheColorHint="@color/colorLight"
+        android:textColor="@color/colorLight" />
+
+    <Button
+        android:id="@+id/restart"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="154dp"
+        android:layout_marginLeft="154dp"
+        android:layout_marginEnd="161dp"
+        android:layout_marginRight="161dp"
+        android:layout_marginBottom="19dp"
+        android:background="@drawable/buttonshape"
+        android:clickable="true"
+        android:onClick="restart"
+        android:padding="8dp"
+        android:text="Retry"
+        android:textAllCaps="false"
+        android:textColor="@color/colorLight"
+        android:textSize="20sp" />
+
+</RelativeLayout>

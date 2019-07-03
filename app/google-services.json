@@ -1,0 +1,107 @@
+{
+  "project_info": {
+    "project_number": "596222995255",
+    "firebase_url": "https://smiling-stock-220717.firebaseio.com",
+    "project_id": "smiling-stock-220717",
+    "storage_bucket": "smiling-stock-220717.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:596222995255:android:542603228c86e21d",
+        "android_client_info": {
+          "package_name": "com.example.johnraviv.twentyquestionv12"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "596222995255-mcqd50sgojhkcv07gu01n75afhuc0nq8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.johnraviv.twentyquestionv12",
+            "certificate_hash": "ab1f922b09dc7f5eb49cf0a3f19f964000ad2ed1"
+          }
+        },
+        {
+          "client_id": "596222995255-oed6o53id04nbn8t25ashj3g3tf20uu1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6eOXAVIoxPP1eXCzvjIeI77uY6G7Luys"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "596222995255-oed6o53id04nbn8t25ashj3g3tf20uu1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:596222995255:android:f9c4c900f45a93bf",
+        "android_client_info": {
+          "package_name": "com.koby.twentyquestions"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "596222995255-2vnp5oa7ukfnj8n7g37h0pftdpvin6ds.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.koby.twentyquestions",
+            "certificate_hash": "b3752881a1a6c6eee2150a0a21d6b0401fd775df"
+          }
+        },
+        {
+          "client_id": "596222995255-5jel0h1urpvu5m5hhpbrl95prjbmbdae.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.koby.twentyquestions",
+            "certificate_hash": "ab1f922b09dc7f5eb49cf0a3f19f964000ad2ed1"
+          }
+        },
+        {
+          "client_id": "596222995255-oed6o53id04nbn8t25ashj3g3tf20uu1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6eOXAVIoxPP1eXCzvjIeI77uY6G7Luys"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "596222995255-oed6o53id04nbn8t25ashj3g3tf20uu1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
